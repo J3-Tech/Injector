@@ -12,5 +12,6 @@
     ],
     "autoload":{
         "psr-0": { "LabZone\\Injector": "src" }
-    }
+    },
+    "target-dir": "."
 }
